@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Baby Flokiverse](README.md)
+  * [NFT Market place](baby-flokiverse/nft-market-place.md)
+  * [Our blockChain](baby-flokiverse/our-blockchain/README.md)
+    * [consensus](baby-flokiverse/our-blockchain/consensus.md)
+  * [IDO LAUNCHPAD STAKE](baby-flokiverse/ido-launchpad-stake.md)
+* [Tokenomics](tokenomics/README.md)
+  * [Taxes](tokenomics/taxes.md)
+* [What is babyFlokiverse](what-is-babyflokiverse/README.md)
+  * [Innovation](what-is-babyflokiverse/innovation.md)
+* [Play WIN Earn](play-win-earn/README.md)
+  * [Game items](play-win-earn/game-items.md)
+  * [Staking](play-win-earn/staking.md)
+  * [Leveling Up](play-win-earn/leveling-up.md)
+* [Market Place](market-place.md)
